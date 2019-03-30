@@ -1,9 +1,7 @@
 castv2
 ======
 
-[![NPM version](https://badge.fury.io/js/castv2.svg)](http://badge.fury.io/js/castv2)
-[![Dependency Status](https://img.shields.io/david/thibauts/node-castv2.svg)](https://david-dm.org/thibauts/node-castv2)
-[![npm](https://img.shields.io/npm/dm/castv2.svg?maxAge=2592000)]()
+[![Dependency Status](https://img.shields.io/david/rm-hull/node-castv2.svg)](https://david-dm.org/rm-hull/node-castv2)
 
 ### An implementation of the Chromecast CASTV2 protocol
 
